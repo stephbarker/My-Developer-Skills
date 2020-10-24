@@ -53,7 +53,7 @@ input, button {
 }
 
 input {
-    width: 75%;
+    width: 70%;
 }
 
 button {
@@ -61,5 +61,5 @@ button {
     color: darkseagreen;
     text-transform: uppercase;
     font-weight: 600;
-    width: 24%;
+    width: 28%;
 }
